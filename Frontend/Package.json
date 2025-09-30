@@ -1,0 +1,18 @@
+{
+  "name": "selfcore-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "xterm": "^5.3.0",
+    "xterm-addon-fit": "^0.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0",
+    "@vitejs/plugin-react": "^3.2.0"
+  }
+}
