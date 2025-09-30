@@ -22,15 +22,15 @@ Self-hostable web terminal like SSHX.io
 ---
 
 ## Install
-```bash
+`bash
 git clone https://github.com/tejasprogaming1713/SelfCore.git
 cd SelfCore
 chmod +x install.sh
-./install.sh
+./install.sh`
 
 After installation, open your browser:
 
-http://selfcorex.duckdns.org:5173/?id=<session-id>
+`http://selfcorex.duckdns.org:5173/?id=<session-id>`
 
 Each session will have a unique link.
 
